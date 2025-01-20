@@ -1,13 +1,7 @@
-# k8sCluster
+## k8s 3 tier deployment resources
 
-### https://olav.ninja/deploying-kubernetes-cluster-on-proxmox-part-1
+### https://youtu.be/pTmIoKUeU-A?si=18bhBCuAu_EiTjtQ
 
-### https://blog.devops.dev/kubernetes-on-proxmox-with-terraform-automating-container-orchestration-1198e596e471
+### https://github.com/N4si/K8s-voting-app
 
-### https://cyber-engine.com/blog/2024/06/25/k8s-on-proxmox-usinghttps://github.com/omidiyanto/terraform-ansible-kubernetes-proxmox-clustercreator/
 
-### https://en.wikipedia.org/wiki/Bastion_hosthttps://kravensecurity.com/creating-local-kubernetes-cluster/
-
-### https://www.khanhph.com/install-proxmox-kubernetes/
-
-### https://github.com/omidiyanto/terraform-ansible-kubernetes-proxmox
