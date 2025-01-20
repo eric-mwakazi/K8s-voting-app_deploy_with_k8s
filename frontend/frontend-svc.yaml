@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: frontend-service
+  namespace: erik
+  labels:
+    role: frontend
+    env: demo
+spec:
+  selector:
+    role: frontend
+  ports:
+    - protocol: TCP
+      port: 80          # Port within the cluster for the frontend
+      targetPort: 8080   # The port the frontend container listens on
+      nodePort: 30182    # The external NodePort, accessible via any node IP
+  type: NodePort
